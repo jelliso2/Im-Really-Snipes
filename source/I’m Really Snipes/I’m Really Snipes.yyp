@@ -3,6 +3,9 @@
     {"id":{"name":"gameplay","path":"rooms/gameplay/gameplay.yy",},"order":1,},
     {"id":{"name":"menuFont","path":"fonts/menuFont/menuFont.yy",},"order":0,},
     {"id":{"name":"obj_menu","path":"objects/obj_menu/obj_menu.yy",},"order":0,},
+    {"id":{"name":"gameFont","path":"fonts/gameFont/gameFont.yy",},"order":2,},
+    {"id":{"name":"obj_gui","path":"objects/obj_gui/obj_gui.yy",},"order":1,},
+    {"id":{"name":"titleFont","path":"fonts/titleFont/titleFont.yy",},"order":1,},
     {"id":{"name":"main_menu","path":"rooms/main_menu/main_menu.yy",},"order":0,},
   ],
   "Options": [
