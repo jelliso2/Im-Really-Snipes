@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_test",
-    "path": "sprites/spr_test/spr_test.yy",
+    "name": "spr_textBG",
+    "path": "sprites/spr_textBG/spr_textBG.yy",
   },
   "solid": false,
   "visible": true,

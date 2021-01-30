@@ -1,11 +1,13 @@
 {
   "resources": [
+    {"id":{"name":"obj_menu2","path":"objects/obj_menu2/obj_menu2.yy",},"order":5,},
     {"id":{"name":"spr_Kiernan_cursor","path":"sprites/spr_Kiernan_cursor/spr_Kiernan_cursor.yy",},"order":0,},
-    {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},"order":2,},
+    {"id":{"name":"spr_weekAdvancement","path":"sprites/spr_weekAdvancement/spr_weekAdvancement.yy",},"order":2,},
     {"id":{"name":"obj_choices","path":"objects/obj_choices/obj_choices.yy",},"order":3,},
+    {"id":{"name":"spr_menuButtonBG","path":"sprites/spr_menuButtonBG/spr_menuButtonBG.yy",},"order":3,},
     {"id":{"name":"gameplay","path":"rooms/gameplay/gameplay.yy",},"order":1,},
     {"id":{"name":"menuFont","path":"fonts/menuFont/menuFont.yy",},"order":0,},
-    {"id":{"name":"spr_test","path":"sprites/spr_test/spr_test.yy",},"order":1,},
+    {"id":{"name":"spr_textBG","path":"sprites/spr_textBG/spr_textBG.yy",},"order":1,},
     {"id":{"name":"obj_WeekAdvance","path":"objects/obj_WeekAdvance/obj_WeekAdvance.yy",},"order":4,},
     {"id":{"name":"obj_Kiernan_test","path":"objects/obj_Kiernan_test/obj_Kiernan_test.yy",},"order":0,},
     {"id":{"name":"obj_menu","path":"objects/obj_menu/obj_menu.yy",},"order":0,},

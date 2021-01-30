@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Sprite3",
-    "path": "sprites/Sprite3/Sprite3.yy",
+    "name": "spr_weekAdvancement",
+    "path": "sprites/spr_weekAdvancement/spr_weekAdvancement.yy",
   },
   "solid": false,
   "visible": true,
