@@ -1,0 +1,9 @@
+/// @DnDAction : YoYo Games.Common.Execute_Code
+/// @DnDVersion : 1
+/// @DnDHash : 399751DE
+/// @DnDArgument : "code" "var text,xPos,yPos,Player_message,Risk,moneyL;$(13_10)$(13_10)global.isClicked = false$(13_10)$(13_10)week = 1;"
+var text,xPos,yPos,Player_message,Risk,moneyL;
+
+global.isClicked = false
+
+week = 1;
