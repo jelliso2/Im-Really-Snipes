@@ -15,6 +15,9 @@
   "layers": [
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_gui","path":"objects/obj_gui/obj_gui.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":544.0,"y":416.0,"resourceVersion":"1.0","name":"inst_244E1336","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":true,"objectId":{"name":"obj_choices","path":"objects/obj_choices/obj_choices.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":5.8,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1008.0,"y":512.0,"resourceVersion":"1.0","name":"inst_50B4C6","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":true,"objectId":{"name":"obj_choices","path":"objects/obj_choices/obj_choices.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":5.8,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1008.0,"y":608.0,"resourceVersion":"1.0","name":"inst_119ECFB4","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_WeekAdvance","path":"objects/obj_WeekAdvance/obj_WeekAdvance.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1216.0,"y":96.0,"resourceVersion":"1.0","name":"inst_634A500E","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"spriteId":null,"colour":4281056255,"x":0,"y":0,"htiled":false,"vtiled":false,"hspeed":0.0,"vspeed":0.0,"stretch":false,"animationFPS":15.0,"animationSpeedType":0,"userdefinedAnimFPS":false,"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Background","tags":[],"resourceType":"GMRBackgroundLayer",},
   ],
@@ -23,6 +26,9 @@
   "inheritCode": false,
   "instanceCreationOrder": [
     {"name":"inst_244E1336","path":"rooms/gameplay/gameplay.yy",},
+    {"name":"inst_50B4C6","path":"rooms/gameplay/gameplay.yy",},
+    {"name":"inst_119ECFB4","path":"rooms/gameplay/gameplay.yy",},
+    {"name":"inst_634A500E","path":"rooms/gameplay/gameplay.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
