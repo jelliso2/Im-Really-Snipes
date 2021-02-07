@@ -9,6 +9,7 @@
     {"id":{"name":"titleSubtitle","path":"fonts/titleSubtitle/titleSubtitle.yy",},"order":3,},
     {"id":{"name":"spr_menuButtonBG","path":"sprites/spr_menuButtonBG/spr_menuButtonBG.yy",},"order":3,},
     {"id":{"name":"rm_howToPlay","path":"rooms/rm_howToPlay/rm_howToPlay.yy",},"order":4,},
+    {"id":{"name":"rm_leaderboard","path":"rooms/rm_leaderboard/rm_leaderboard.yy",},"order":5,},
     {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},"order":1,},
     {"id":{"name":"gameplay","path":"rooms/gameplay/gameplay.yy",},"order":1,},
     {"id":{"name":"obj_restart","path":"objects/obj_restart/obj_restart.yy",},"order":6,},
@@ -17,6 +18,7 @@
     {"id":{"name":"spr_textBG","path":"sprites/spr_textBG/spr_textBG.yy",},"order":1,},
     {"id":{"name":"rm_won","path":"rooms/rm_won/rm_won.yy",},"order":3,},
     {"id":{"name":"spr_wallpaper","path":"sprites/spr_wallpaper/spr_wallpaper.yy",},"order":5,},
+    {"id":{"name":"obj_leaderboard","path":"objects/obj_leaderboard/obj_leaderboard.yy",},"order":11,},
     {"id":{"name":"obj_WeekAdvance","path":"objects/obj_WeekAdvance/obj_WeekAdvance.yy",},"order":4,},
     {"id":{"name":"sd_music1","path":"sounds/sd_music1/sd_music1.yy",},"order":0,},
     {"id":{"name":"spr_bgOverlay","path":"sprites/spr_bgOverlay/spr_bgOverlay.yy",},"order":4,},
@@ -49,6 +51,7 @@
     {"roomId":{"name":"rm_lost","path":"rooms/rm_lost/rm_lost.yy",},},
     {"roomId":{"name":"rm_won","path":"rooms/rm_won/rm_won.yy",},},
     {"roomId":{"name":"rm_howToPlay","path":"rooms/rm_howToPlay/rm_howToPlay.yy",},},
+    {"roomId":{"name":"rm_leaderboard","path":"rooms/rm_leaderboard/rm_leaderboard.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
